@@ -1,6 +1,6 @@
 <h1>DEAPTH-FIRST SEARCH</h1>
 <br>
-Name : MD.Ibrahim Shimul
+Name : Md.Ibrahim Shimul
 <br>
 ID : 2222081081
 <br>
