@@ -14,4 +14,3 @@
 <br>
 6. Repeat the steps until all nodes have been visited.
 
-![Screenshot 2024-05-01 183924](https://github.com/ibrahim-shimul/CSEC-311_labreport/assets/111243684/98ef6d10-3e15-4ac5-9709-e7fbc9835b95)
