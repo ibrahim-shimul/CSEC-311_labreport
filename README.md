@@ -1,16 +1,5 @@
 <h1>DEAPTH-FIRST SEARCH</h1>
 <br>
-Name : Md.Ibrahim Shimul
-<br>
-ID : 2222081081
-<br>
-Batch : 57A
-<br>
-Department of CSE
-<br>
-Uttara University
-<br>
-<br>
 <h3>Algorithm Steps</h3>
 <br>
 1. Select the start node.
