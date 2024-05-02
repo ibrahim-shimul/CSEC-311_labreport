@@ -13,4 +13,8 @@
 5. When there are no undiscovered neighbor nodes, go back and return to the previous node.
 <br>
 6. Repeat the steps until all nodes have been visited.
+<br>
+<h3>Git Command </h3>
+<br>
 
+![command](https://github.com/ibrahim-shimul/CSEC-311_labreport/assets/111243684/c4402019-3cdf-4319-95b2-062bf6caed53)
